@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Frappe ERPNEXT Appilcations **
 
-- 🌱 I’m currently learning **more about "Low Code No Code"**
+- 🌱 I’m currently learning **more about "Low Code No Code Applications"**
 
 - 👯 I’m looking to collaborate on **Frappe Modules and Applications**
 
