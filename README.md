@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/nihal_roshan__" target="blank"><img src="https://img.shields.io/twitter/follow/nihal_roshan__?logo=twitter&style=for-the-badge" alt="nihal_roshan__" /></a> </p>
 
-- 🔭 I’m currently working on **Project management**
+- 🔭 I’m currently working on **Frappe ERPNEXT Appilcations **
 
-- 🌱 I’m currently learning **more about react and django**
+- 🌱 I’m currently learning **more about "Low Code No Code"**
 
-- 👯 I’m looking to collaborate on **Django project with React**
+- 👯 I’m looking to collaborate on **Frappe Modules and Applications**
 
-- 💬 Ask me about **React.Django.Python**
+- 💬 Ask me about **Frappe.ErpNext.React.Django.Python**
 
 - 📫 How to reach me **nihalroshan55@gmail.com**
 
